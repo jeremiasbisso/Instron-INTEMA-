@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>Compresion.bmp</file>
+        <file>Flexion.bmp</file>
+        <file>logo.png</file>
+        <file>Traccion.bmp</file>
+    </qresource>
+</RCC>
