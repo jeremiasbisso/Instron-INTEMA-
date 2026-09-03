@@ -1,3 +1,0 @@
-F:\ProgramasFR\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\Instron_4467.dir/objects.a
-F:\ProgramasFR\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\Instron_4467.dir/objects.a @CMakeFiles\Instron_4467.dir\objects1.rsp
-F:\ProgramasFR\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\Instron_4467.dir/objects.a -Wl,--no-whole-archive -o Instron_4467.exe -Wl,--out-implib,libInstron_4467.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Instron_4467.dir\linkLibs.rsp
